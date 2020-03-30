@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:12</property><property name="BMTFW_Layout"><![CDATA[string:[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial Narrow
+	lod=33
+	tc=323232
+	viewStyle=2
+[Database].[cases]
+	dx=107,136
+	expanded=t
+	parent=Database
+	x=10,75
+[Database].[lockdowns]
+	dx=123,64
+	expanded=t
+	parent=Database
+	x=157,30
+[Database]
+	view=0,0
+	zoom=1.000000
+[Database].[cases_yesterday]
+	dx=159,136
+	expanded=t
+	parent=Database
+	x=157,121
+[Database].[countries]
+	dx=115,64
+	expanded=t
+	parent=Database
+	x=100,114
+[Presentation]
+	view=0,0
+	zoom=1.000000
+[Presentation].[Cases]
+	dx=138,208
+	expanded=t
+	parent=Presentation
+	x=10,57
+]]></property></object></namespace></bmtcustomdata>
